@@ -2,7 +2,7 @@ from __future__ import print_function
 import sys
 
 def triangle(s1, s2, s3):
-        if s1 <= 0 or s2 <= 0 or s3 <= 0:
+    if s1 <= 0 or s2 <= 0 or s3 <= 0:
         return 'INVALID'
 
     # Check triangle inequality
