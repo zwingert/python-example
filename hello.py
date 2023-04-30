@@ -21,4 +21,4 @@ def triangle(s1, s2, s3):
 
 
 if __name__ == '__main__':
-    sys.exit(return 0)
+    sys.exit(0)
