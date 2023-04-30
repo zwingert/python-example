@@ -1,5 +1,5 @@
 import hello
 
 
-def test_says_world():
+def test_triangle():
     assert hello.triangle(2,2,2) == 'EQUILATERAL'
