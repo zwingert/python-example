@@ -20,10 +20,5 @@ def triangle(s1, s2, s3):
     return 'SCALENE'
 
 
-def main():
-    triangle(2,2,2)
-    return 0
-
-
 if __name__ == '__main__':
-    sys.exit(main())
+    sys.exit(return 0)
