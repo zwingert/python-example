@@ -1,7 +1,7 @@
 from __future__ import print_function
 import sys
 
-def hello(what):
+def triangle(what):
     print('Hello, {}!'.format(what))
 
 
@@ -10,7 +10,7 @@ def say_what():
 
 
 def main():
-    hello(say_what())
+    triangle(say_what())
     return 0
 
 
